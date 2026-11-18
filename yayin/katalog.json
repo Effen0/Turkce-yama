@@ -1,0 +1,62 @@
+{
+    "olusturma":  "2026-11-18 23:46",
+    "launcher":  {
+                     "surum":  "1.1.0.0",
+                     "url":  "https://github.com/Effen0/turkce-yama/releases/download/yamalar/TurkceYamaLauncher.exe",
+                     "sha256":  "4f1b05bbef238914bce33860dd998a933599c7218da6c8ce93098f05314a5169"
+                 },
+    "yamalar":  [
+                    {
+                        "id":  "rise-of-the-tomb-raider",
+                        "surum":  "1.0",
+                        "url":  "https://github.com/Effen0/turkce-yama/releases/download/yamalar/rise-of-the-tomb-raider-1.0.zip",
+                        "sha256":  "76790ab938a1b753ea2de043f723a64f83cfae9ce78fe086a39c22e7bf69171f",
+                        "boyut":  968038,
+                        "kapakUrl":  "https://github.com/Effen0/turkce-yama/releases/download/yamalar/rise-of-the-tomb-raider-kapak.png",
+                        "eklenme":  "2026-11-18",
+                        "yama":  {
+                                     "ad":  "Rise of the Tomb Raider",
+                                     "surum":  "1.0",
+                                     "yapimci":  "Effen",
+                                     "aciklama":  "Rise of the Tomb Raider için tam Türkçe yama: menüler, görevler, belgeler, eşyalar ve ara sahne altyazıları (DLC\u0027ler dahil).\n\nOyunun dili İngilizce olmalı. Kurmadan önce oyunu kapat. Steam güncellemesinden sonra yamayı tekrar kur.",
+                                     "steamAppId":  "391220",
+                                     "klasorAdlari":  [
+                                                          "Rise of the Tomb Raider"
+                                                      ],
+                                     "kontrolDosyasi":  "ROTTR.exe",
+                                     "desteklenenSurumler":  [
+
+                                                             ],
+                                     "desteklenenHashler":  [
+
+                                                            ]
+                                 }
+                    },
+                    {
+                        "id":  "shadow-of-the-tomb-raider",
+                        "surum":  "1.0",
+                        "url":  "https://github.com/Effen0/turkce-yama/releases/download/yamalar/shadow-of-the-tomb-raider-1.0.zip",
+                        "sha256":  "88c428cc43aa2b666a0322f8837b918bee5e51f9c0a4940f82b4066c37c50885",
+                        "boyut":  7162964,
+                        "kapakUrl":  "https://github.com/Effen0/turkce-yama/releases/download/yamalar/shadow-of-the-tomb-raider-kapak.png",
+                        "eklenme":  "2026-11-18",
+                        "yama":  {
+                                     "ad":  "Shadow of the Tomb Raider",
+                                     "surum":  "1.0",
+                                     "yapimci":  "Effen",
+                                     "aciklama":  "Shadow of the Tomb Raider için Türkçe yama: ana menü, ayarlar ve temel arayüz metinleri (kısmi çeviri, devam ediyor).\n\nOyunun dili İngilizce olmalı. Kurmadan önce oyunu kapat. Steam güncellemesinden sonra yamayı tekrar kur.",
+                                     "steamAppId":  "750920",
+                                     "klasorAdlari":  [
+                                                          "Shadow of the Tomb Raider"
+                                                      ],
+                                     "kontrolDosyasi":  "SOTTR.exe",
+                                     "desteklenenSurumler":  [
+
+                                                             ],
+                                     "desteklenenHashler":  [
+
+                                                            ]
+                                 }
+                    }
+                ]
+}
